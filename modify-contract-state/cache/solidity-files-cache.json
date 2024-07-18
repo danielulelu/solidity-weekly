@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\pavilion14\\Desktop\\modify-contract-state\\contracts\\ModifyVariable.sol": {
+      "lastModificationDate": 1720810710781,
+      "contentHash": "61545add1e832cb5c47b37dbdacc29a9",
+      "sourceName": "contracts/ModifyVariable.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "ModifyVariable"
+      ]
+    }
+  }
+}
